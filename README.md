@@ -151,6 +151,8 @@
  
   Usa-se `#n` para fazer menção a uma Issue, onde **n é o número da Issue**
   
+  Mas isso só no chat das Issues
+  
   Menção a Issue #1
 
 # Escapando Simbolos
