@@ -153,7 +153,7 @@
   
   Mas isso só no chat das Issues
   
-  Menção a Issue #1
+  Menção a Issue [#1](https://github.com/ISS2718/Ola-Mundo/issues/1)
 
 # Escapando Simbolos
 
