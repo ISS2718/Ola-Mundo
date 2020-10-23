@@ -1,8 +1,6 @@
 # Olá, Mundo!
 
- Aprendendo usar o Git  e GitHub.
-              +
- Resumo de MarkDown.
+ Aprendendo usar o Git  e GitHub. + Resumo de MarkDown.
  
  Repositório criado durante uma aula do [Curso em Video](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&index=1). 
  
